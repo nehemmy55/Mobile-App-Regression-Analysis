@@ -43,9 +43,9 @@ app.add_middleware(
         "http://10.0.2.2:8000",
         "https://mobile-app-regression-analysis-936b.onrender.com",
     ],
-    allow_credentials=True,
+    allow_credentials=False,
     allow_methods=["GET", "POST"],
-    allow_headers=["*"],
+    allow_headers=["Content-Type", "Authorization", "Accept"],
 )
 
 
