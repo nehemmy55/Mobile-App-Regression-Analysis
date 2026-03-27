@@ -3,7 +3,7 @@
 ## Mission & Problem
 To increase access to quality tech education for young Africans by building inclusive tech academies equipped with the best tutoring tools, empowering the next generation of African innovators through data-driven learning support systems. This project predicts a student's GPA from study habits, attendance, tutoring, and parental involvement — enabling academies to identify at-risk students early and direct support where it matters most.
 
-**Dataset:** [Kaggle — Student Performance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors) | 2,392 students, 15 features.
+**Dataset:** [Kaggle — Student Performance dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset) | 2,392 students, 15 features.
 
 ---
 
@@ -44,7 +44,7 @@ Example response:
 
 ## Video Demo
 
-▶️ [YouTube Demo Link](https://youtube.com/your-link-here) ← replace with your link
+▶️ [YouTube Demo Link](https://youtu.be/xib8z1ZcNS0) 
 
 ---
 
@@ -79,7 +79,7 @@ linear_regression_model/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/nehemmy55/Mobile-App-Regression-Analysis.git
 cd linear_regression_model/summative/FlutterApp
 ```
 
